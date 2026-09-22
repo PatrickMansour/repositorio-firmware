@@ -28,7 +28,7 @@ const char* WIFI_SENHA   = "";
 
 // >>> TROQUE pelo link RAW do seu version.json no GitHub <<<
 const char* MANIFEST_URL =
-  "https://github.com/PatrickMansour/repositorio-firmware/raw/refs/heads/main/version.json";
+  "https://raw.githubusercontent.com/PatrickMansour/repositorio-firmware/main/version.json";
 
 const int PIN_LED_R = 25;
 const int PIN_LED_G = 26;
